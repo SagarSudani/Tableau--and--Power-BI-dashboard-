@@ -14,7 +14,7 @@ Best-selling product breakdown
 
 **Tools Used**: Tableau, Excel
 
-📎 File: Adidas_Sales_Dashboard.twbx
+📎 File: adidas dashboard23.twb
 
 **2. Coca-Cola Sales Dashboard**
 Goal: Provide insights into Coca-Cola sales and customer behavior.
