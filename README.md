@@ -1,5 +1,4 @@
 # Tableau-dashboard-
-📊 Tableau Dashboard Projects
 🧠 Objective
 This repository contains interactive Tableau dashboards created to analyze and visualize real-world datasets. These dashboards help uncover trends, monitor key performance indicators (KPIs), and support data-driven decision-making in a business context.
 
