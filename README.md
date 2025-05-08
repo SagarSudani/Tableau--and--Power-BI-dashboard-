@@ -28,7 +28,7 @@ Customer-type filters and drill-down views
 
 **Tools Used**: Tableau, Excel
 
-📎 File: CocaCola_Sales_Dashboard.twbx
+📎 File: coca cola.twb
 
 
 🔍 Key Skills Demonstrated
