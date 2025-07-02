@@ -1,0 +1,18 @@
+#Employees manage Shipment 
+EVALUATE
+    TOPN(100, 'logistic_data employee manages shipment')
+
+#Shipment per employees
+    SUMMARIZECOLUMNS(
+        "Shipmens per employees", [Shipmens per employees]
+    )
+
+#Revenue per Membership
+ SUMMARIZECOLUMNS(
+        "Revenue by membership", [Revenue by membership]
+    )
+
+#Total Revenue
+  SUMMARIZECOLUMNS(
+        "Total Revanue", [Total Revanue]
+    )
