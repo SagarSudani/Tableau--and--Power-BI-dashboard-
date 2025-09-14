@@ -1,6 +1,6 @@
-# Tableau-dashboard-
+# Tableau and Power BI dashboard-
 🧠 Objective
-This repository contains interactive Tableau dashboards created to analyze and visualize real-world datasets. These dashboards help uncover trends, monitor key performance indicators (KPIs), and support data-driven decision-making in a business context.
+This repository contains interactive Tableau and Power BI dashboards created to analyze and visualize real-world datasets. These dashboards help uncover trends, monitor key performance indicators (KPIs), and support data-driven decision-making in a business context.
 
 📂 Project List
 # ☕Coffee Sales Dashboard (Power BI Project)
