@@ -32,6 +32,7 @@ The dashboard provides a comprehensive view of sales data, helping to uncover **
 **Adidas Sales Dashboard**
 Goal: Analyze sales performance of Adidas products across different regions and product types.
 KPIs Tracked: Total sales, units sold, regional performance, product-wise revenue.
+<img width="1920" height="1080" alt="adidas dashboard" src="https://github.com/user-attachments/assets/7a2ee9ab-cf80-4cb4-acfb-f1c4e873dff9" />
 
 
 **Features:**
