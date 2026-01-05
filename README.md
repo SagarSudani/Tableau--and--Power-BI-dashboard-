@@ -4,6 +4,7 @@ This repository contains interactive Tableau and Power BI dashboards created to 
 
 📂 Project List
 # ☕Coffee Sales Dashboard (Power BI Project)
+<img width="732" height="469" alt="Coffeeshopsales Dashboard" src="https://github.com/user-attachments/assets/91bb701d-f475-4e86-b67a-9f92aa7ec12a" />
 
 ## 📌 Project Overview
 This project delivers an **interactive Coffee Sales Dashboard** built in **Power BI**.  
@@ -32,6 +33,7 @@ The dashboard provides a comprehensive view of sales data, helping to uncover **
 Goal: Analyze sales performance of Adidas products across different regions and product types.
 KPIs Tracked: Total sales, units sold, regional performance, product-wise revenue.
 
+
 **Features:**
 Dynamic filters (region, product category)
 Time-series sales trends
@@ -44,6 +46,7 @@ Best-selling product breakdown
 **Coca-Cola Sales Dashboard**
 Goal: Provide insights into Coca-Cola sales and customer behavior.
 KPIs Tracked: Monthly sales, revenue by location, customer segmentation.
+<img width="1920" height="1014" alt="Coca-cola sale Dashboard" src="https://github.com/user-attachments/assets/08b3a950-83a4-4129-a435-f99cc93d0f7c" />
 
 **Features:**
 
